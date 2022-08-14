@@ -1,2 +1,0 @@
-# bricklayer
-devops platform
